@@ -102,7 +102,7 @@ Required columns: `bmi`, `age`, `expenses`.
 From inside the `Linear_Regression` folder (with the virtual environment active, if you made one):
 
 ```bash
-python Src/assignment_two_feature_model.py
+python Src/Two_feature_model.py
 ```
 
 Use `python3` on Mac/Linux if `python` is not found, or `py` on Windows. Run it from a terminal, not by double-clicking the file.
